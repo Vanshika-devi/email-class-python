@@ -56,3 +56,4 @@ Add a Drafts folder for unsent emails.
 Implement a Search feature to find emails by subject or sender.
 
 Add a Command Line Interface (CLI) to allow real-time user input instead of hardcoded simulation.
+This is the functionality of this project.
